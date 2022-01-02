@@ -1,22 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  cursor: none;
-}
-
-/* buradaki cursor'u istersen silebilirsin eğer silersen body'den "cursor: none" özelliğini sil*/
-.cursor{
-  width: 36px;
-  height: 36px;
-  background-color: #333;
-  border-radius: 100px;
-  border: 1px solid white;  
-  position:absolute;
-  z-index: 1000;
-  transition: 200ms;
-  transition-timing-function: ease-out;
-  animation: cursorAnim .5s infinite alternate;
-  opacity: 0.5;
 }
 
 @keyframes cursorAnime{
