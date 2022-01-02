@@ -3,15 +3,6 @@ body {
   color: #272829;
 }
 
-@keyframes cursorAnime{
-  from{
-    transform: scale(1);
-  }
-  to{
-    transform: scale(.7);
-  }
-}
-
 a {
   color: #149ddd;
   text-decoration: none;
