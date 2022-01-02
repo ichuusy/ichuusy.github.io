@@ -2,7 +2,6 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  cursor: pointer;
 }
 
 /* buradaki cursor'u istersen silebilirsin eğer silersen body'den "cursor: none" özelliğini sil*/
