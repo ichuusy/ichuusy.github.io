@@ -2,7 +2,7 @@
 
   if(isset($_POST['onay'])){
 
-    $nereye = "luxelberke@gmail.com";
+    $nereye = "pykatone@gmail.com";
     $nereden = $_POST['email'];
     $isim = $_POST['isim'];
     $baslik = $_POST['baslik'];
